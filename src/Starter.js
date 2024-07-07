@@ -23,6 +23,8 @@ import gopi65 from './Images/starter/gopi65.jpg';
 import kadai65 from './Images/starter/kadai65.jpg';
 import chillikadai from './Images/starter/chillikadai.jpeg';
 import kadaipeperfry from './Images/starter/kadaipeperfry.jpg';
+import kadambamasala from './Images/starter/kadambamasala.jpg';
+import sqid65 from './Images/starter/sqid65.jpg';
 
 
 export const Starter = [
@@ -52,13 +54,13 @@ export const Starter = [
     },
     {
         id: 5,
-        image: Fishfinger,
-        itemName: "Kadama Masala (sqid)",
+        image: kadambamasala,
+        itemName: "Kadamba Masala (sqid)",
         price:"Rs : 150"
     },
     {
         id: 6,
-        image: Fishfinger,
+        image: sqid65,
         itemName: "Syrid (combo) 65",
         price:"Rs : 150"
     },
@@ -77,25 +79,25 @@ export const Starter = [
     {
         id: 9,
         image:kaadimasala,
-        itemName: "Kaadi Masala",
+        itemName: "Kaadai Masala",
         price:"Rs : 130"
     },
     {
         id: 10,
         image: kadaipeperfry,
-        itemName: "Kaadi Peperfry",
+        itemName: "Kaadai Peperfry",
         price:"Rs : 130"
     },
     {
         id: 11,
         image: kadai65,
-        itemName: "Kaadi 65",
+        itemName: "Kaadai 65",
         price:"Rs : 130"
     },
     {
         id: 12,
         image: chillikadai,
-        itemName: "Chilli Kaadi",
+        itemName: "Chilli Kaadai",
         price:"Rs : 130"
     },
     {

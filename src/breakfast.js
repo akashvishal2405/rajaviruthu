@@ -12,7 +12,7 @@ export const Breakfast = [
         {
             id: 2,
             image: mini,
-            itemName: "Mini Tigon",
+            itemName: "Mini Tiffon",
             price:"Rs : 65"
         }
 ]
