@@ -7,6 +7,9 @@ import lobsterbig from "./Images/rajaspecial/lobsterbig.jpg"
 import splcombo from "./Images/rajaspecial/splcombo.jpg"
 import seragasambabiriyani from "./Images/rajaspecial/seragasambabiriyani.jpg"
 import crabfull from "./Images/rajaspecial/crabfull.jpg"
+import prawnstick  from "./Images/rajaspecial/prawnstick.jpg"
+import preadfish from "./Images/rajaspecial/preadfish.jpg"
+
 
 
 
@@ -57,13 +60,13 @@ export const RajaVirundhu = [
     },
     {
         id: 8,
-        image: "",
-        itemName: "Tiger Pram Stick",
+        image: prawnstick,
+        itemName: "Tiger Prawn Stick",
         price:"Rs. 750"
     },
     {
         id: 9,
-        image: "",
+        image: preadfish ,
         itemName: "Pom Pread Fish",
         price:"Rs. 900"
     },
